@@ -1,0 +1,12 @@
+D:\dotNETTask\dotNET developer\WebExperiance.Test.BussinesLogic\bin\Debug\WebExperiance.Test.BussinesLogic.dll.config
+D:\dotNETTask\dotNET developer\WebExperiance.Test.BussinesLogic\bin\Debug\WebExperiance.Test.BussinesLogic.dll
+D:\dotNETTask\dotNET developer\WebExperiance.Test.BussinesLogic\bin\Debug\WebExperiance.Test.BussinesLogic.pdb
+D:\dotNETTask\dotNET developer\WebExperiance.Test.BussinesLogic\bin\Debug\EntityFramework.dll
+D:\dotNETTask\dotNET developer\WebExperiance.Test.BussinesLogic\bin\Debug\EntityFramework.SqlServer.dll
+D:\dotNETTask\dotNET developer\WebExperiance.Test.BussinesLogic\bin\Debug\EntityFramework.xml
+D:\dotNETTask\dotNET developer\WebExperiance.Test.BussinesLogic\bin\Debug\EntityFramework.SqlServer.xml
+D:\dotNETTask\dotNET developer\WebExperiance.Test.BussinesLogic\obj\Debug\WebExperience.Test.BussinesLogic.csproj.CoreCompileInputs.cache
+D:\dotNETTask\dotNET developer\WebExperiance.Test.BussinesLogic\obj\Debug\WebExperience.Test.BussinesLogic.csproj.CopyComplete
+D:\dotNETTask\dotNET developer\WebExperiance.Test.BussinesLogic\obj\Debug\WebExperiance.Test.BussinesLogic.dll
+D:\dotNETTask\dotNET developer\WebExperiance.Test.BussinesLogic\obj\Debug\WebExperiance.Test.BussinesLogic.pdb
+D:\dotNETTask\dotNET developer\WebExperiance.Test.BussinesLogic\obj\Debug\WebExperience.Test.BussinesLogic.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\dotNETTask\dotNET developer\GeneralKnowledge.Test\bin\Debug\GeneralKnowledge.Test.App.exe.config
+D:\dotNETTask\dotNET developer\GeneralKnowledge.Test\bin\Debug\GeneralKnowledge.Test.App.exe
+D:\dotNETTask\dotNET developer\GeneralKnowledge.Test\bin\Debug\GeneralKnowledge.Test.App.pdb
+D:\dotNETTask\dotNET developer\GeneralKnowledge.Test\obj\Debug\GeneralKnowledge.Test.App.Resources.resources
+D:\dotNETTask\dotNET developer\GeneralKnowledge.Test\obj\Debug\GeneralKnowledge.Test.csproj.GenerateResource.cache
+D:\dotNETTask\dotNET developer\GeneralKnowledge.Test\obj\Debug\GeneralKnowledge.Test.csproj.CoreCompileInputs.cache
+D:\dotNETTask\dotNET developer\GeneralKnowledge.Test\obj\Debug\GeneralKnowledge.Test.App.exe
+D:\dotNETTask\dotNET developer\GeneralKnowledge.Test\obj\Debug\GeneralKnowledge.Test.App.pdb
+D:\dotNETTask\dotNET developer\GeneralKnowledge.Test\bin\Debug\Newtonsoft.Json.dll
+D:\dotNETTask\dotNET developer\GeneralKnowledge.Test\bin\Debug\Newtonsoft.Json.xml
+D:\dotNETTask\dotNET developer\GeneralKnowledge.Test\obj\Debug\GeneralKnowledge.Test.csproj.CopyComplete
